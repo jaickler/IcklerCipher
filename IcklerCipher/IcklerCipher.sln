@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IcklerCipher", "IcklerCipher\IcklerCipher.pyproj", "{9488062B-13A2-4BCC-B940-7A129B1FCC62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9488062B-13A2-4BCC-B940-7A129B1FCC62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9488062B-13A2-4BCC-B940-7A129B1FCC62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {775A3B8D-3529-433B-8982-E84466605249}
+	EndGlobalSection
+EndGlobal
